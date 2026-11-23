@@ -8,7 +8,7 @@ It is emitted deterministically on every run.
 
 import os
 
-SENTENCE = "You know that app idea you keep talking about \u2014 just describe it to an AI agent on make.fun and in a few minutes you\u2019ll have a first working version to try, change, or walk away from."
+SENTENCE = "That app idea you\u2019ve been carrying around for months \u2014 just tell an AI agent on make.fun what it is, and in a few minutes you\u2019ll have a first working version to try, change, or walk away from."
 
 
 def main() -> None:
